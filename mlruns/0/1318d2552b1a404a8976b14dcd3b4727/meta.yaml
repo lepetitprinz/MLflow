@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yjkim/src/ml-ops/mlflow/mlruns/0/1318d2552b1a404a8976b14dcd3b4727/artifacts
+end_time: 1665125105828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1318d2552b1a404a8976b14dcd3b4727
+run_uuid: 1318d2552b1a404a8976b14dcd3b4727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665125105794
+status: 4
+tags: []
+user_id: yjkim
