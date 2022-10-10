@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/yjkim/src/ml-ops/mlflow/tutorial/hyperparam/mlruns/0/672104a2ec734fe3a7f16282bae61282/artifacts
+deleted_time: 1665410592338
+end_time: 1665409865425
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 672104a2ec734fe3a7f16282bae61282
+run_uuid: 672104a2ec734fe3a7f16282bae61282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665409864435
+status: 4
+tags: []
+user_id: yjkim

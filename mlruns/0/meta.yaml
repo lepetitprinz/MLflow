@@ -1,6 +1,6 @@
-artifact_location: file:///Users/yjkim/src/ml-ops/mlflow/mlruns/0
-creation_time: 1665125105793
+artifact_location: ./mlruns/0
+creation_time: 1665410024827
 experiment_id: '0'
-last_update_time: 1665125105793
+last_update_time: 1665410024827
 lifecycle_stage: active
 name: Default
